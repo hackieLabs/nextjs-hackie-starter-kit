@@ -1,7 +1,7 @@
 export type SiteConfig = typeof siteConfig
 
 export const siteConfig = {
-  name: "Hackie | Nextjs starter",
+  name: "Hackie | Nextjs",
   description:
     "Beautifully designed components built with Radix UI and Tailwind CSS.",
   mainNav: [
