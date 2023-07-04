@@ -14,7 +14,7 @@ export default function IndexPage() {
           A Next.JS starter built by <strong>Hackie</strong>
         </p>
       </div>
-      <div className="flex gap-4">
+      <div className="flex gap-4 flex-wrap">
         <Link
           target="_blank"
           rel="noreferrer"
