@@ -11,7 +11,7 @@ export default function IndexPage() {
           Happy Coding
         </h1>
         <p className="max-w-[700px] text-lg text-muted-foreground">
-          A Next.JS starter built by <strong>Hackie</strong>
+          A Nextjs template built by <strong>hackie</strong>
         </p>
       </div>
       <div className="flex gap-4 flex-wrap">
